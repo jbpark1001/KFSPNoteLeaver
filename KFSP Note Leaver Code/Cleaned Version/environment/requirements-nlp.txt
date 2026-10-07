@@ -1,0 +1,6 @@
+# Additional direct dependencies. Validate compatibility before inference.
+kss
+keybert
+sentence-transformers
+transformers
+torch

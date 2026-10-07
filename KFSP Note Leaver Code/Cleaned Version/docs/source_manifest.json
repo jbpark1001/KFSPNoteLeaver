@@ -1,0 +1,94 @@
+[
+  {
+    "archive": "reference/originals/01_reorganize_demographic_data.py",
+    "sha256": "bad8b50924e48eb27d18016e39b1bdc8a1fa9659f7d13cad1a608599c4cd8a3e"
+  },
+  {
+    "archive": "reference/originals/02_select_predictor_subsets.py",
+    "sha256": "a22241e86afd4db48656a2073c572fb1e323757de9df5556758d6d56234673bc"
+  },
+  {
+    "archive": "reference/originals/03_compare_logistic_models.R",
+    "sha256": "46e7ae34e5c33992636661a466481896c2ed49b5414be7054ad1f80aec8bc9a3"
+  },
+  {
+    "archive": "reference/originals/04_final_logistic_regression.R",
+    "sha256": "2d33a800dc51286563e401f08d8880829e3b5fbfdc1ae36cd47ea65d29fcb97b"
+  },
+  {
+    "archive": "reference/originals/05_plot_demographic_results.py",
+    "sha256": "2e414a2576aaf0c11e53cb5581bcc3e578550043096c8ef37093b2098924950e"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/extended1_rawcountsbymonth.py",
+    "sha256": "f31f6b57c3aa0c693660c146bb1cde8fe74529f4fb5a938fb7b4c1931b5da3b5"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/extended2_pca_projection_plots.py",
+    "sha256": "b52064b6c4efc78836c1284f34235ff3c00caaa47d633c57e9b3328b57b3e74f"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/extended3-6_all_section_schemes_standalone.py",
+    "sha256": "54bcc80fdbb6c3af69c20b742658e38f54018d902fe2937c2283d663605aa36a"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/extended3e_real_vs_shuffled_comparison_standalone.py",
+    "sha256": "f43b7e6b6a2c4e608c07d8cf297f1866b2f026cf57f754ef90a4b2e3d5ff0c7b"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure1_combined_side_by_side.py",
+    "sha256": "0d1426411df3af6a014fcdd9b89a622b8d920331bd817ad61a65d718b1b8f1d4"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure1b_combined_monthly.py",
+    "sha256": "c8547c2a7f8f8a2553cb061eea89d564d63afc337ae8239c22be62f41db0e586"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure2_Reordered_Levels_Comparative_ForestPlots_Nature_TableStyle_OnePage.py",
+    "sha256": "8df76b4dc7bf7f4f01ab40a015513c4c2a42e507a18d3f383d163f50a38957e6"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure3_alluvial_figures_standalone.py",
+    "sha256": "b6e4f20d1ed62f2210c60ccfe107b1e76e505343f740a0e1659bc6478176949d"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure4_export_theme_and_sentiment_heatmaps.py",
+    "sha256": "730af6723339cd456e92bba11787de441b47825460e2576b4782048cf3bba967"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure5-6a_theme_and_sentiment_heatmaps.py",
+    "sha256": "cde5661c33431bc73f7ccde29e99e5f62d543ccae7e9ba3a03f614fea1c3f5aa"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure5-6b_age_group_sentiment_theme_lineplots_standalone.py",
+    "sha256": "ad4e0553f658bfc6dbc5a740f3abe0eaaae6240f187ecd96268c8de01e151906"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/figure7_NHB_theme_sentiment_transitions_designer_revised.py",
+    "sha256": "0bd91c80d6b4da2185bc221bf384860e376ce58ba706af36b03152d2f68781ac"
+  },
+  {
+    "archive": "reference/originals/Figure Codes/supplementary1-5_recreate_supplementary_lollipops.py",
+    "sha256": "fbb244d89bedd199b955d803594edf2a1c07d1395ebbae84e046718805597165"
+  },
+  {
+    "archive": "reference/originals/KFSP Paper Figures 1-4.py",
+    "sha256": "ce431fb4b93412b7a95e166c3146271aa448423e98c6c4c3c839037bb6271f63"
+  },
+  {
+    "archive": "reference/originals/Section-based Markov Transitions (Note Leaver Final Ver1).py",
+    "sha256": "f8bb6f85e47185c38498a76d82bfabcaccc9539b46cd3e19f9c2bc7cb925a7b4"
+  },
+  {
+    "archive": "reference/originals/Sectioning Suicide Notes (5.4.2026).py",
+    "sha256": "5c17fe302167b726ec388cb3e0e1cb85e0dcb9a662075e6f8281aeea1aa062f1"
+  },
+  {
+    "archive": "reference/originals/Splitting raw notes (1. Gender controlled).py",
+    "sha256": "44a1c71eab64a0f00af00121a49e0e0b22a26ef4840e6afb84668805c86ede4c"
+  },
+  {
+    "archive": "reference/originals/Splitting raw notes (2. Age controlled).py",
+    "sha256": "fd60e290a2c34cc6ab9b5be19366da20e27c3d22a9222c5aef30261920961057"
+  }
+]

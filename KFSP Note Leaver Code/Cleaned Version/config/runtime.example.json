@@ -1,0 +1,4 @@
+{
+  "python": "/absolute/path/to/python",
+  "rscript": "/absolute/path/to/Rscript"
+}

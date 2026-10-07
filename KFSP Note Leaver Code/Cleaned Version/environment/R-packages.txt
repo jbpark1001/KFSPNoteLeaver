@@ -1,0 +1,7 @@
+# Required packages; exact original study versions were not supplied.
+readxl
+DescTools
+writexl
+dplyr
+broom
+tibble

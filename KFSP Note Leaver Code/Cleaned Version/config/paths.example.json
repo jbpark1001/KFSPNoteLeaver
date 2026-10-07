@@ -1,0 +1,21 @@
+{
+  "registry": "../private_data/inputs/registry.xlsx",
+  "demographic_source": "../private_data/inputs/demographic_source",
+  "eligible_notes": "../private_data/inputs/eligible_notes.xlsx",
+  "raw_features": "../private_data/inputs/raw_features.pkl",
+  "sentiment_features": "../private_data/inputs/sentiment_features.pkl",
+  "theme_clusters": "../private_data/inputs/theme_clusters",
+  "sentiment_clusters": "../private_data/inputs/sentiment_clusters",
+  "section_annotations": "../private_data/inputs/section_annotations.xlsx",
+  "sentence_annotations": "../private_data/inputs/sentence_annotations.xlsx",
+  "section_results": "../private_data/inputs/section_results",
+  "sentence_results": "../private_data/inputs/sentence_results",
+  "noun_counts": "../private_data/inputs/noun_counts",
+  "verb_counts": "../private_data/inputs/verb_counts",
+  "kote_checkpoint": "../private_data/inputs/kote_checkpoint.bin",
+  "shapefile": "../private_data/inputs/shapefile.shp",
+  "existing_odds_ratios": "../private_data/inputs/existing_odds_ratios.xlsx",
+  "existing_factor_tests": "../private_data/inputs/existing_factor_tests.xlsx",
+  "proportion_summary": "../private_data/inputs/proportion_summary.csv",
+  "population": "../private_data/inputs/population.xlsx"
+}
